@@ -1,6 +1,7 @@
 Şinasi Ergün - Elektrik ve Elektronik Mühendisi | R&D Engineer
 English
-Welcome to my GitHub profile! I am Şinasi Ergün, an Electrical and Electronics Engineer with a passion for innovation and technology. I have worked on various exciting projects, from electric vehicle systems to automation, and I always seek to develop cutting-edge solutions.
+Welcome to my GitHub profile! I am Şinasi Ergün, an Electrical and Electronics Engineer with a passion for innovation and technology. I have worked on various exciting projects, from electric vehicle systems 
+to automation, and I always seek to develop cutting-edge solutions.
 
 Education:
 Tarsus Ticaret ve Sanayi Odası Anadolu Endüstri Meslek Lisesi, Mersin/Tarsus
@@ -25,7 +26,8 @@ Developed algorithms to meet legal standards and improve machine stability, pass
 For more information or to contact me, feel free to email me at sinasiergun@hotmail.com.
 
 Türkçe
-GitHub profiline hoş geldiniz! Ben Şinasi Ergün, Elektrik ve Elektronik Mühendisiyim ve teknolojiye olan tutkumla çeşitli yenilikçi projelerde çalıştım. Elektrikli araç sistemlerinden otomasyona kadar geniş bir yelpazede projeler geliştirdim ve her zaman en son teknolojilere yönelik çözümler üretmeye gayret ediyorum.
+GitHub profiline hoş geldiniz! Ben Şinasi Ergün, Elektrik ve Elektronik Mühendisiyim ve teknolojiye olan tutkumla çeşitli yenilikçi projelerde çalıştım. Elektrikli araç sistemlerinden otomasyona 
+kadar geniş bir yelpazede projeler geliştirdim ve her zaman en son teknolojilere yönelik çözümler üretmeye gayret ediyorum.
 
 Eğitim:
 Tarsus Ticaret ve Sanayi Odası Anadolu Endüstri Meslek Lisesi, Mersin/Tarsus
